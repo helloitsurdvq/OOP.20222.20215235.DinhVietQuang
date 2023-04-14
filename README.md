@@ -1,2 +1,4 @@
-# OOP.Lab.20222.20215235.DinhVietQuang
-OOP Lab Exercises - ICT
+# OOP Lab Exercises - ICT
+Student name: Dinh Viet Quang
+Student ID: 20215235
+Class: 727652
