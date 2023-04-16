@@ -3,7 +3,8 @@ Exercise 6.1:
 ==> Answer: If the users chose "Cancel", the dialog defaults to "No".
 
 - How to customize the options to users, e.g. only two options: "Yes" and "No", OR "I do" and "I dont'"?
-==> Answer: Only two "Yes" and "No" option can be achieved with JOptionPane.YES_NO_OPTION as the 4th argument of JOptionPane.showConfirmDialog. We can customize the options by using the seventh argument of JOptionPane.showOptionDialog (e.g. "I do" & "I don't"). 
+==> Answer: Only two "Yes" and "No" option can be achieved with JOptionPane.YES_NO_OPTION as the 4th argument of JOptionPane.showConfirmDialog. 
+We can customize the options by using the seventh argument of JOptionPane.showOptionDialog (e.g. "I do" & "I don't"). 
 Demo:
 		String[] options = {"I do", "I don't"};
 		int option = JOptionPane.showOptionDialog(null, 
